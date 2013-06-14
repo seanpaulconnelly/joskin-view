@@ -1,3 +1,4 @@
+      </div><!-- /.container -->
       <footer>
         <p>footer</p>
       </footer>

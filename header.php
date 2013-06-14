@@ -57,3 +57,12 @@
         </div>
       </div>
     </header>
+    <div class="container">
+      <div class="row banner">
+        <div class="span10">
+          ad
+        </div>
+        <div class="span2 skin">
+          box
+        </div>
+      </div>

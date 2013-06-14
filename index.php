@@ -1,15 +1,4 @@
 <?php include 'header.php'; ?>
-    <div class="container">
-
-      <div class="row banner">
-        <div class="span10">
-          ad
-        </div>
-        <div class="span2 skin">
-          box
-        </div>
-      </div>
-
       <div class="row">
         <div class="span12">
           <h2>This is the title</h1>
@@ -63,6 +52,4 @@
           <p>Lorem ipsum dolor sit amet bacon turducken mayonaise beef roast.  Saltines banana pudding Selena Gomez and the orange soda gang.</p>
         </div>
       </div>
-
-      </div><!-- /.container -->
 <?php include 'footer.php'; ?>
