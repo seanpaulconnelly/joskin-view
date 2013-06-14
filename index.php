@@ -3,7 +3,7 @@
         <div class="span12">
           <h2>This is the title</h1>
           <hr>
-          <p class="lead">This is the subtitle</p>
+          <h3 class="lead">This is the subtitle</h3>
         </div>
       </div>
 
