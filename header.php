@@ -1,4 +1,4 @@
-<?php $siteurl = 'http://localhost:8888/joskin-view'; 
+<?php $siteurl = 'http://seanconnelly.me/rsportz/joskin-view'; 
 /* The following URLs should work:
 /
 /tourney
