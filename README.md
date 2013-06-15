@@ -12,4 +12,4 @@ The wireframe has four different available 'skins' for pre-development presentat
 
 When one of the `.skin-options` is selected in the UI, the matching class is added to any element on the page that carries `.skin`.
 
-To add a new changeable skin area, just add `.skin` to any HTML element and then add the appropriate css rules for `.skin-one`, `.skin-two`, `.skin-three`, and `.skin-four`, prefereable inside of assets/scss/components/skin-switcher.
+To add a new changeable skin area, just add `.skin` to any HTML element and then add the appropriate css rules for `.skin-one`, `.skin-two`, `.skin-three`, and `.skin-four`, prefereably inside of assets/scss/components/skin-switcher.
