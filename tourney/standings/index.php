@@ -529,6 +529,5 @@ include '../../header.php'; ?>
 		</tr>
 	</tbody>
 </table>
-<hr>
 
 <?php include '../../footer.php'; ?>
