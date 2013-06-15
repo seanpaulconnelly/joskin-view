@@ -10,7 +10,7 @@ include '../header.php'; ?>
 	<div class="span12">
 		<h2>2013 Junior Olympics</h2>
 		<hr>
-		<h3 class="lead">Choose from an age group/division to continue.  Live streaming video and box score can be found by going to the Schedule and then clicking "Go To Game" for the game you'd like to view.</h3>
+		<h3 class="lead">Choose from an age group/division to continue.  Live streaming video and box score can be found by going to the Schedule and then clicking "View Matchup" for the game you'd like to view.</h3>
 	</div>
 </div>
 
