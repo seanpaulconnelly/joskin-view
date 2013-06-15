@@ -34,11 +34,14 @@
                 <h1><a href="/">RSportz</a></h1>
               </div>
               <h4 class='tagline pull-left'>AAU Inline Hockey</h4>
-              <div class="btn-group" data-toggle="buttons-radio">
-                <button type="button" class="btn btn-1">Tron</button>
-                <button type="button" class="btn btn-2">JOs</button>
-                <button type="button" class="btn btn-3">FIRS</button>
-                <button type="button" class="btn btn-4">AAU/USARS</button>
+              <div class="pull-right skin-options">
+                <h6>Skin Options</h6>
+                <div class="btn-group" data-toggle="buttons-radio">
+                  <button type="button" class="btn btn-warning btn-small btn-1">Tron</button>
+                  <button type="button" class="btn btn-warning btn-small btn-2">JOs</button>
+                  <button type="button" class="btn btn-warning btn-small btn-3">FIRS</button>
+                  <button type="button" class="btn btn-warning btn-small btn-4">AAU/USARS</button>
+                </div>
               </div>
             </div>
           </div>
@@ -47,10 +50,6 @@
     </header>
     <div class="container">
       <div class="row banner">
-        <div class="span10">
-          <img src="<?php echo $siteurl; ?>/assets/images/banner-ad.jpg" alt="728x90 Ad"/>
-        </div>
-        <div class="span2 skin">
-          <img src="<?php echo $siteurl; ?>/assets/images/ad-option.jpg" alt="728x90 Ad"/>
-        </div>
+        <div class="span10 big-ad skin"></div>
+        <div class="span2 ad-option skin"></div>
       </div>

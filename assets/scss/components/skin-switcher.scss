@@ -1,0 +1,62 @@
+.skin-options {
+	h6 {
+		color:#fff;
+		font-size:1em;
+		text-shadow:1px 1px 2px #000;
+		@include titillium;
+	}
+}
+
+.banner {
+	.big-ad {
+		width:728px;
+		height:90px;
+		&.skin-one{
+			background: url('images/banner-tron.jpg') no-repeat;
+		}
+		&.skin-two{
+			background: url('images/banner-ad.jpg') no-repeat;
+		}
+		&.skin-three{
+			background: url('images/banner-ad.jpg') no-repeat;
+		}
+		&.skin-four{
+			background: url('images/banner-ad.jpg') no-repeat;
+		}
+	}
+	.ad-option {
+		width:140px;
+		height:90px;
+		&.skin-one{
+			background: url('images/tron-option.jpg') no-repeat;
+		}
+		&.skin-two{
+			background: url('images/jos-option.jpg') no-repeat;
+		}
+		&.skin-three{
+			background: url('images/firs-option.jpg') no-repeat;
+		}
+		&.skin-four{
+			background: url('images/usars-option.jpg') no-repeat;
+		}
+	}
+}
+
+.block-ad {
+	width:300px;
+	height:250px;
+	margin-top:10px;
+	margin-bottom:20px;
+	&.skin-one {
+		background: url('images/block-tron.jpg') no-repeat;
+	}
+	&.skin-two {
+		background: url('images/block-ad.jpg') no-repeat;
+	}
+	&.skin-three {
+		background: url('images/block-ad.jpg') no-repeat;
+	}
+	&.skin-four {
+		background: url('images/block-ad.jpg') no-repeat;
+	}
+}

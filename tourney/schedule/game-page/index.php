@@ -71,6 +71,7 @@ include '../../../header.php'; ?>
 	</div>
 
 	<div class="span4 offset1">
+		<img class="share-buttons" src="<?php echo $siteurl; ?>/assets/images/social.jpg" alt="Share Buttons"/>
 		<table class="box-score table table-bordered table-striped table-hover table-condensed">
 			<thead>
 				<tr>
@@ -98,8 +99,7 @@ include '../../../header.php'; ?>
 				</tr>
 			</tbody>
 		</table>
-		<img src="<?php echo $siteurl; ?>/assets/images/social.jpg" alt="Share Buttons"/>
-		<img src="<?php echo $siteurl; ?>/assets/images/block-ad.jpg" alt="300x250 Ad"/>
+		<div class="block-ad skin"></div>
 	</div>
 </div>
 
