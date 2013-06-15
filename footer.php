@@ -40,7 +40,25 @@
 		  </div>
       </div>
       <footer>
-        <p>footer</p>
+		<div class='footer-logo'></div>
+		<div class='container'>
+			<div class='row'>
+				<div class='span4'>
+					<ul class='inline-menu'>
+						<li><a href="<?php echo $siteurl; ?>">Home</a></li>
+						<li><a href="http://app.rsportz.com/about">About</a></li>
+						<li><a href="http://app.rsportz.com/legal">Legal</a></li>
+						<li><a href="http://app.rsportz.com/privacy">Privacy</a></li>
+					</ul>
+				</div>
+				<div class='span4'>
+					stuff
+				</div>
+				<div class='span4'>
+					<p>&copy;2003 - 2013 RSportz, Inc. All rights reserved.</p>
+				</div>
+			</div>
+		</div>
       </footer>
     
     <script src="<?php echo $siteurl; ?>/assets/js/jquery-1.8.3.js"></script>
