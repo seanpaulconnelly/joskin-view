@@ -12,7 +12,7 @@ include '../../../header.php'; ?>
 	<div class="span2">
 		<img class="img-polaroid" src="<?php echo $siteurl; ?>/assets/images/team.jpg" alt="Team Image"/>
 	</div>
-	<div class="span10">
+	<div class="span9">
 		<h2>Red Deer Tour Snipers</h2>
 		<p class="lead"><strong>Record: </strong>2-1-0</p>
 		<p>1st Place</p>

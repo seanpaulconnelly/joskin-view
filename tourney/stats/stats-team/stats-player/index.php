@@ -13,7 +13,7 @@ include '../../../../header.php'; ?>
 	<div class="span2">
 		<img class="img-polaroid" src="<?php echo $siteurl; ?>/assets/images/player.jpg" alt="Player Image"/>
 	</div>
-	<div class="span10">
+	<div class="span9">
 		<h2>James Mastifson</h2>
 		<p class="lead">Forward</p>
 		<p><strong>Red Deer Tour Snipers Record: </strong> 3-0-0</p>
@@ -22,6 +22,7 @@ include '../../../../header.php'; ?>
 
 <div class="row">
 	<div class="span12">
+		<h3>Personal Schedule &amp; Results</h3>
 		<table class="table table-bordered table-striped table-hover table-condensed">
 			<thead>
 				<tr>
@@ -39,7 +40,7 @@ include '../../../../header.php'; ?>
 			<tbody>
 				<tr>
 					<td><a href="<?php echo $siteurl; ?>/tourney/schedule/game-page">1432</a></td>
-					<td>Flyers</td>
+					<td><a href="<?php echo $siteurl; ?>/tourney/stats/stats-team">Flyers</a></td>
 					<td>July 6th, 4:00PM</td>
 					<td>1</td>
 					<td>4</td>
@@ -50,7 +51,7 @@ include '../../../../header.php'; ?>
 				</tr>
 				<tr>
 					<td><a href="<?php echo $siteurl; ?>/tourney/schedule/game-page">9203</a></td>
-					<td>Renegades</td>
+					<td><a href="<?php echo $siteurl; ?>/tourney/stats/stats-team">Renegades</a></td>
 					<td>July 6th, 4:00PM</td>
 					<td>1</td>
 					<td>4</td>
@@ -61,7 +62,7 @@ include '../../../../header.php'; ?>
 				</tr>
 				<tr>
 					<td><a href="<?php echo $siteurl; ?>/tourney/schedule/game-page">5490</a></td>
-					<td>Smoky The Bears</td>
+					<td><a href="<?php echo $siteurl; ?>/tourney/stats/stats-team">Smoky The Bears</a></td>
 					<td>July 6th, 4:00PM</td>
 					<td>1</td>
 					<td>4</td>

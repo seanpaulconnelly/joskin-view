@@ -6,17 +6,18 @@ include '../header.php'; ?>
   <li class="active">2013 Junior Olympics</li>
 </ul>
 
-<div class="row">
+<div class="row leader-text">
 	<div class="span12">
-		<h2>Choose from an age group/division to continue</h2>
-		<h3 class="lead">Live streaming video and box score can be found by going to the Schedule and then clicking "Go To Game" for the game you'd like to view.</h3>
+		<h2>2013 Junior Olympics</h2>
+		<hr>
+		<h3 class="lead">Choose from an age group/division to continue.  Live streaming video and box score can be found by going to the Schedule and then clicking "Go To Game" for the game you'd like to view.</h3>
 	</div>
 </div>
 
 <div class="divisions">
 	
 	<div class="row">
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>6U - ALL</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -25,7 +26,7 @@ include '../header.php'; ?>
 			</div>
 		</div>
 
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>8U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -46,7 +47,7 @@ include '../header.php'; ?>
 			</div>
 		</div>
 
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>10U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -63,7 +64,7 @@ include '../header.php'; ?>
 	</div><!-- .row -->
 
 	<div class="row">
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>12U - ALL</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -72,7 +73,7 @@ include '../header.php'; ?>
 			</div>
 		</div>
 
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>14U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -93,7 +94,7 @@ include '../header.php'; ?>
 			</div>
 		</div>
 
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>16U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -110,7 +111,7 @@ include '../header.php'; ?>
 	</div><!-- .row -->
 
 	<div class="row">
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>18U - ALL</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
@@ -119,7 +120,7 @@ include '../header.php'; ?>
 			</div>
 		</div>
 
-		<div class="span4">
+		<div class="span4 age-group">
 			<h4>21U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>

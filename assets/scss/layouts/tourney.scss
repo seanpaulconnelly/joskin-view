@@ -1,22 +1,19 @@
-.leader-text {
-	text-align:center;
-	margin-top:20px;
-	h2 {
-		font-size:2em;
+.divisions {
+	.row {
+		margin-bottom:20px;
 	}
-	h3 {
-		font-size:1.3em;
-	}
-}
-
-.events {
-	.event-box {
+	.age-group {
 		background: url('images/bg-component-well.png') repeat;
 		@include border-radius(2px);
 		padding:10px 20px 20px 20px;
 		width:260px;
- 		h4 {
+		min-height:270px;
+		h4 {
 			text-align:center;
+		}
+		.btn-group {
+			padding-bottom:10px;
+			border-bottom:1px solid #ddd;
 		}
 	}
 }

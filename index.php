@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-      <div class="row homepage-leader">
+      <div class="row leader-text">
         <div class="span12">
           <h2>Get up to the minute information on the 2013 Junior Olympics of Inline Hockey, 
 FIRS World Championships, and AAU/USARS Adult Nationals.</h1>
