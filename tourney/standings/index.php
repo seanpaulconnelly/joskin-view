@@ -16,7 +16,7 @@ include '../../header.php'; ?>
 			<th>W</th>
 			<th>L</th>
 			<th>T</th>
-			<th>PTS</th>
+			<th>PTS <i class="icon-arrow-down"></i></th>
 			<th>GD</th>
 			<th>GF</th>
 			<th>GA</th>
@@ -32,7 +32,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -46,7 +46,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -60,7 +60,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -74,7 +74,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -94,7 +94,7 @@ include '../../header.php'; ?>
 			<th>W</th>
 			<th>L</th>
 			<th>T</th>
-			<th>PTS</th>
+			<th>PTS <i class="icon-arrow-down"></i></th>
 			<th>GD</th>
 			<th>GF</th>
 			<th>GA</th>
@@ -110,7 +110,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -124,7 +124,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -138,7 +138,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -152,7 +152,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -172,7 +172,7 @@ include '../../header.php'; ?>
 			<th>W</th>
 			<th>L</th>
 			<th>T</th>
-			<th>PTS</th>
+			<th>PTS <i class="icon-arrow-down"></i></th>
 			<th>GD</th>
 			<th>GF</th>
 			<th>GA</th>
@@ -188,7 +188,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -202,7 +202,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -216,7 +216,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -230,7 +230,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -250,7 +250,7 @@ include '../../header.php'; ?>
 			<th>W</th>
 			<th>L</th>
 			<th>T</th>
-			<th>PTS</th>
+			<th>PTS <i class="icon-arrow-down"></i></th>
 			<th>GD</th>
 			<th>GF</th>
 			<th>GA</th>
@@ -266,7 +266,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -280,7 +280,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -294,7 +294,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -308,7 +308,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -328,7 +328,7 @@ include '../../header.php'; ?>
 			<th>W</th>
 			<th>L</th>
 			<th>T</th>
-			<th>PTS</th>
+			<th>PTS <i class="icon-arrow-down"></i></th>
 			<th>GD</th>
 			<th>GF</th>
 			<th>GA</th>
@@ -344,7 +344,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -358,7 +358,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -372,7 +372,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -386,7 +386,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -400,7 +400,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -414,7 +414,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -434,7 +434,7 @@ include '../../header.php'; ?>
 			<th>W</th>
 			<th>L</th>
 			<th>T</th>
-			<th>PTS</th>
+			<th>PTS <i class="icon-arrow-down"></i></th>
 			<th>GD</th>
 			<th>GF</th>
 			<th>GA</th>
@@ -450,7 +450,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -464,7 +464,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -478,7 +478,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -492,7 +492,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
@@ -506,7 +506,7 @@ include '../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>6</td>
+			<th>6</th>
 			<td>+10</td>
 			<td>10</td>
 			<td>0</td>
@@ -520,7 +520,7 @@ include '../../header.php'; ?>
 			<td>0</td>
 			<td>3</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>-10</td>
 			<td>0</td>
 			<td>10</td>
