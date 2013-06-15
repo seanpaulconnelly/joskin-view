@@ -14,7 +14,7 @@
           <p><strong>End Date: </strong>xx/xx/xxxx</p>
           <p><strong>Locations: </strong>Huntington, Irvine, Honda Center</p>
           <p><strong>Streaming Games: </strong>Select Games &amp; Championships</p>
-          <a class="btn btn-large btn-green">View Event</a>
+          <a href="<?php echo $siteurl; ?>/tourney" class="btn btn-large btn-green">View Event</a>
         </div>
         <div class="span4">
           <h3>FIRS World Championships</h3>
@@ -22,7 +22,7 @@
           <p><strong>End Date: </strong>xx/xx/xxxx</p>
           <p><strong>Locations: </strong>Huntington, Irvine, Honda Center</p>
           <p><strong>Streaming Games: </strong>Select Games &amp; Championships</p>
-          <a class="btn btn-large btn-green">View Event</a>
+          <a href="<?php echo $siteurl; ?>/tourney" class="btn btn-large btn-green">View Event</a>
         </div>
         <div class="span4">
           <h3>AAU/USARS Adult Nationals</h3>
@@ -30,7 +30,7 @@
           <p><strong>End Date: </strong>xx/xx/xxxx</p>
           <p><strong>Locations: </strong>Huntington, Irvine, Honda Center</p>
           <p><strong>Streaming Games: </strong>Select Games &amp; Championships</p>
-          <a class="btn btn-large btn-green">View Event</a>
+          <a href="<?php echo $siteurl; ?>/tourney" class="btn btn-large btn-green">View Event</a>
         </div>
       </div>
       
