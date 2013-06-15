@@ -60,9 +60,9 @@
     <div class="container">
       <div class="row banner">
         <div class="span10">
-          ad
+          <img src="<?php echo $siteurl; ?>/assets/images/banner-ad.jpg" alt="728x90 Ad"/>
         </div>
         <div class="span2 skin">
-          box
+          <img src="<?php echo $siteurl; ?>/assets/images/ad-option.jpg" alt="728x90 Ad"/>
         </div>
       </div>
