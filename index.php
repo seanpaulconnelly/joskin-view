@@ -33,23 +33,4 @@
           <a href="<?php echo $siteurl; ?>/tourney" class="btn btn-large btn-green">View Event</a>
         </div>
       </div>
-      
-      <div class="row subfooter">
-        <div class="span3">
-          <h5>Title</h5>
-          <p>Lorem ipsum dolor sit amet bacon turducken mayonaise beef roast.  Saltines banana pudding Selena Gomez and the orange soda gang.</p>
-        </div>
-        <div class="span3">
-          <h5>Title</h5>
-          <p>Lorem ipsum dolor sit amet bacon turducken mayonaise beef roast.  Saltines banana pudding Selena Gomez and the orange soda gang.</p>
-        </div>
-        <div class="span3">
-          <h5>Title</h5>
-          <p>Lorem ipsum dolor sit amet bacon turducken mayonaise beef roast.  Saltines banana pudding Selena Gomez and the orange soda gang.</p>
-        </div>
-        <div class="span3">
-          <h5>Title</h5>
-          <p>Lorem ipsum dolor sit amet bacon turducken mayonaise beef roast.  Saltines banana pudding Selena Gomez and the orange soda gang.</p>
-        </div>
-      </div>
 <?php include 'footer.php'; ?>
