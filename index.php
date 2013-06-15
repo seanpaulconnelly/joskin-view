@@ -4,7 +4,7 @@
           <h2>Get up to the minute information on the 2013 Junior Olympics of Inline Hockey, 
 FIRS World Championships, and AAU/USARS Adult Nationals.</h1>
           <hr>
-          <h3 class="lead">This website will give you live updated schedules, stats, and standings during all 3 tournaments.  Select games will be broadcasted with live streaming video.  Choose an event below to get started.</h3>
+          <h3 class="lead">This website will give you live updated schedules, stats, and standings during all 3 tournaments.  Select games will be broadcasted with live streaming and post game video.  <strong>Click View Event to get started</strong>.</h3>
         </div>
       </div>
 

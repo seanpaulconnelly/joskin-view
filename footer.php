@@ -52,7 +52,7 @@
 					</ul>
 				</div>
 				<div class='span4'>
-					stuff
+					<!-- optional center footer area -->
 				</div>
 				<div class='span4'>
 					<p>&copy;2003 - 2013 RSportz, Inc. All rights reserved.</p>
