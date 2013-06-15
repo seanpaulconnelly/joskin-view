@@ -3,13 +3,13 @@ include '../../../../header.php'; ?>
 
 <ul class="breadcrumb">
   <li><a href="<?php echo $siteurl; ?>">Home</a> <span class="divider">&rarr;</span></li>
-  <li><a href="<?php echo $siteurl; ?>/tourney">Junior Olympics</a> <span class="divider">&rarr;</span></li>
+  <li><a href="<?php echo $siteurl; ?>/tourney">2013 Junior Olympics</a> <span class="divider">&rarr;</span></li>
   <li><a href="<?php echo $siteurl; ?>/tourney/stats">14U - A - Statistics</a> <span class="divider">&rarr;</span></li>
   <li><a href="<?php echo $siteurl; ?>/tourney/stats/stats-team">Red Deer Tour Snipers</a> <span class="divider">&rarr;</span></li>
   <li class="active">James Mastifson</li>
 </ul>
 
-<div class="row player-bio">
+<div class="row bio">
 	<div class="span2">
 		<img src="<?php echo $siteurl; ?>/assets/images/player.jpg" alt="Player Image"/>
 	</div>
