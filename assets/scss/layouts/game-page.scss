@@ -1,0 +1,64 @@
+@mixin game-box {
+	background: url('images/bg-component-well.png') repeat;
+	@include border-radius(2px);
+	padding-top:20px;
+	padding-bottom:20px;
+	min-height:125px;
+}
+
+.matchup {
+	.away-team, .home-team {
+		@include game-box;
+		.first-child {
+			padding-left:35px;
+		}
+		.score {
+			font-size:3em;
+			margin-top:40px;
+		}
+		.team-info {
+			h3 {
+				font-size:1.5em;
+				line-height:1em;
+				margin-bottom:5px;
+			}
+			p {
+				margin-bottom:0;
+			}
+		}
+		.team-logo {
+			margin-top:10px;
+		}
+	}
+	.away-team {
+		.score {
+			text-align:right;
+		}
+		.team-info {
+			padding-left:10px;
+			margin-right:-10px;
+		}
+	}
+	.vs {
+		text-align:center;
+		font-size:3em;
+		margin-top:60px;
+	}
+	.home-team {
+		.team-info {
+			text-align:right;
+		}
+	}
+}
+
+.live-stream {
+	img.video {
+		@include box-shadow(0, 0, 3px, #333);
+	}
+	table {
+		margin-top:20px;
+	}
+	.box-score {
+		margin-top:0;
+	}
+}

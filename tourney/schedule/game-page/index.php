@@ -8,40 +8,40 @@ include '../../../header.php'; ?>
   <li class="active">Game # 3649</li>
 </ul>
 
-<h2>This game is in progress.</h2>
+<h2 class="centered-text">This game is in progress.</h2>
 
 <div class="row matchup">
 	<div class="span5 away-team">
 		<div class="row">
-			<div class="span1">
-				logo
+			<div class="span1 team-logo first-child">
+				<img class="img-polaroid" src="<?php echo $siteurl; ?>/assets/images/team.jpg" alt="Team Image"/>
 			</div>
-			<div class="span3">
+			<div class="span2 team-info">
 				<h3>Red Deer Tour Snipers</h3>
 				<p>Record: 3-0-0</p>
 				<p>1st Place</p>
 			</div>
 			<div class="span1">
-				<p class="lead">5</p>
+				<p class="lead score">5</p>
 			</div>
 		</div>
 	</div>
 	<div class="span2">
-		<p class="lead">vs.</p>
+		<p class="lead vs">vs.</p>
 	</div>
 
 	<div class="span5 home-team">
 		<div class="row">
-			<div class="span1">
-				<p class="lead">4</p>
+			<div class="span1 first-child">
+				<p class="lead score">4</p>
 			</div>
-			<div class="span3">
+			<div class="span2 team-info">
 				<h3>Delta River Rats Orange</h3>
 				<p>Record: 3-0-0</p>
 				<p>3rd Place</p>
 			</div>
-			<div class="span1">
-				logo
+			<div class="span1 team-logo">
+				<img class="img-polaroid" src="<?php echo $siteurl; ?>/assets/images/team.jpg" alt="Team Image"/>
 			</div>
 		</div>
 	</div>
@@ -50,7 +50,7 @@ include '../../../header.php'; ?>
 <hr>
 <div class="row live-stream">
 	<div class="span7">
-		<a href="#"><img src="<?php echo $siteurl; ?>/assets/images/video.jpg" alt="Live Game Video"/></a>
+		<a href="#"><img class="video" src="<?php echo $siteurl; ?>/assets/images/video.jpg" alt="Live Game Video"/></a>
 		<table class="table table-bordered table-striped table-hover table-condensed">
 			<thead>
 				<tr>
@@ -71,7 +71,7 @@ include '../../../header.php'; ?>
 	</div>
 
 	<div class="span4 offset1">
-		<table class="table table-bordered table-striped table-hover table-condensed">
+		<table class="box-score table table-bordered table-striped table-hover table-condensed">
 			<thead>
 				<tr>
 					<th>Box Score</th>
@@ -98,6 +98,7 @@ include '../../../header.php'; ?>
 				</tr>
 			</tbody>
 		</table>
+		<img src="<?php echo $siteurl; ?>/assets/images/social.jpg" alt="Share Buttons"/>
 		<img src="<?php echo $siteurl; ?>/assets/images/block-ad.jpg" alt="300x250 Ad"/>
 	</div>
 </div>
