@@ -10,7 +10,7 @@ include '../../../header.php'; ?>
 
 <div class="row bio">
 	<div class="span2">
-		<img src="<?php echo $siteurl; ?>/assets/images/team.jpg" alt="Team Image"/>
+		<img class="img-polaroid" src="<?php echo $siteurl; ?>/assets/images/team.jpg" alt="Team Image"/>
 	</div>
 	<div class="span10">
 		<h2>Red Deer Tour Snipers</h2>

@@ -11,7 +11,7 @@ include '../../../../header.php'; ?>
 
 <div class="row bio">
 	<div class="span2">
-		<img src="<?php echo $siteurl; ?>/assets/images/player.jpg" alt="Player Image"/>
+		<img class="img-polaroid" src="<?php echo $siteurl; ?>/assets/images/player.jpg" alt="Player Image"/>
 	</div>
 	<div class="span10">
 		<h2>James Mastifson</h2>
