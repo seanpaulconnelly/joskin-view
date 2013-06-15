@@ -27,10 +27,10 @@ include '../../../header.php'; ?>
 			<th>Player</th>
 			<th>POS</th>
 			<th>GP</th>
-			<th>G</th>
-			<th>A</th>
-			<th>PTS</th>
-			<th>PM</th>
+			<th><a href="#">G</a></th>
+			<th><a href="#">A</a></th>
+			<th><a href="#">PTS <i class="icon-arrow-down"></i></th>
+			<th><a href="#">PM</a></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -41,7 +41,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>4</td>
 			<td>2</td>
-			<td>6</td>
+			<th>6</th>
 			<td>2:00</td>
 		</tr>
 		<tr>
@@ -51,7 +51,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>4</td>
 			<td>2</td>
-			<td>6</td>
+			<th>5</th>
 			<td>0:00</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>4</td>
 			<td>2</td>
-			<td>6</td>
+			<th>4</th>
 			<td>4:00</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>0</td>
+			<th>3</th>
 			<td>0:00</td>
 		</tr>
 		<tr>
@@ -81,7 +81,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>4</td>
 			<td>2</td>
-			<td>6</td>
+			<th>2</th>
 			<td>2:00</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>4</td>
 			<td>2</td>
-			<td>6</td>
+			<th>1</th>
 			<td>0:00</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>4</td>
 			<td>2</td>
-			<td>6</td>
+			<th>0</th>
 			<td>4:00</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ include '../../../header.php'; ?>
 			<td>3</td>
 			<td>0</td>
 			<td>0</td>
-			<td>0</td>
+			<th>0</th>
 			<td>0:00</td>
 		</tr>
 	</tbody>
