@@ -1,0 +1,22 @@
+.homepage-leader {
+	text-align:center;
+	margin-top:20px;
+	h2 {
+		font-size:2em;
+	}
+	h3 {
+		font-size:1.3em;
+	}
+}
+
+.events {
+	.event-box {
+		background: url('images/bg-component-well.png') repeat;
+		@include border-radius(2px);
+		padding:10px 20px 20px 20px;
+		width:260px;
+ 		h4 {
+			text-align:center;
+		}
+	}
+}
