@@ -1,14 +1,15 @@
-@mixin kellySlab {
-  font-family: 'Kelly Slab', Georgia, Palatino, serif;
+@mixin ptSans {
+  font-family: 'PT Sans', Helvetica, Arial sans-serif;
 }
 
-h1, h2, h3, h4 {
-  @include kellySlab;
-  text-transform: uppercase;
+@mixin titillium {
+	font-family: 'Titillium Web', sans-serif;
 }
 
-h2.headline {
-  text-align: center;
-  padding: 20px 0;
+h1, h2, h3, h4, h5, h6 {
+  @include ptSans;
 }
 
+body {
+	@include titillium;
+}
