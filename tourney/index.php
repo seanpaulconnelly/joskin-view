@@ -21,7 +21,7 @@ include '../header.php'; ?>
 			<h4>6U - ALL</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -30,19 +30,19 @@ include '../header.php'; ?>
 			<h4>8U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>8U - AA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>8U - AAA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -51,13 +51,13 @@ include '../header.php'; ?>
 			<h4>10U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>8U - AA/AAA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -68,7 +68,7 @@ include '../header.php'; ?>
 			<h4>12U - ALL</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -77,19 +77,19 @@ include '../header.php'; ?>
 			<h4>14U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>14U - AA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>14U - AAA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -98,13 +98,13 @@ include '../header.php'; ?>
 			<h4>16U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>16U - AA/AAA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -115,7 +115,7 @@ include '../header.php'; ?>
 			<h4>18U - ALL</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
@@ -124,19 +124,19 @@ include '../header.php'; ?>
 			<h4>21U - A</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>21U - AA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 			<h4>21U - AAA</h4>
 			<div class="btn-group">
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/schedule">Schedule</a>
-				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
+				<a class="btn btn-blue btn-stats" href="<?php echo $siteurl; ?>/tourney/stats">Stats</a>
 				<a class="btn btn-green" href="<?php echo $siteurl; ?>/tourney/standings">Standings</a>
 			</div>
 		</div>
