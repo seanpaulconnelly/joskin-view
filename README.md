@@ -7,6 +7,15 @@ Rigged together with a nested folder system and various index.php files to quick
 
 App is to harness live data from RSportz during the 2013 JOs of Inline Hockey, FIRS, and AAU/USARS Adult Nationals
 
+### Demo site
+Demo site can be found here: http://seanconnelly.me/rsportz/joskin
+
+### Local Setup
+1. Clone the repo
+2. Change the `$siteurl` found in header.php to whatever you're using (for me it's http://localhost:8888/joskin-view)
+3. Start local server, open browser, go to URL
+4. Done.
+
 ### Skin Options
 The wireframe has four different available 'skins' for pre-development presentation.  This feature should be removed in the finished product.
 
