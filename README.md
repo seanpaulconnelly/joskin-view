@@ -13,8 +13,9 @@ Demo site can be found here: http://seanconnelly.me/rsportz/joskin
 ### Local Setup
 1. Clone the repo
 2. Change the `$siteurl` found in header.php to whatever you're using (for me it's http://localhost:8888/joskin-view)
-3. Start local server, open browser, go to URL
-4. Done.
+3. (to manage SCSS/JS) Create a new [CodeKit](http://incident57.com/codekit/) project or set up ruby to compile it properly
+4. Start local server, open browser, go to URL
+5. Done.
 
 ### Skin Options
 The wireframe has four different available 'skins' for pre-development presentation.  This feature should be removed in the finished product.
